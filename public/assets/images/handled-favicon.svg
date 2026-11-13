@@ -1,0 +1,7 @@
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background: rounded square, brand blue -->
+  <rect x="0" y="0" width="64" height="64" rx="14" fill="#006dea"/>
+
+  <!-- Bold white checkmark: "handled" = done -->
+  <path d="M16 33 L27 44 L49 20" stroke="#ffffff" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg>
