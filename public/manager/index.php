@@ -2,7 +2,7 @@
 declare(strict_types=1);
 
 // Protect the manager portal.
-require_once __DIR__ . '/../../src/Authentication/session.php';
+require_once __DIR__ . '/../../src/Authentication/sessions.php';
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -18,7 +18,7 @@ require_once __DIR__ . '/../../src/Authentication/session.php';
     <h1>Manager Dashboard</h1>
     <p>Welcome to Handled.</p>
 
-    <a href="../../src/Authentication/logout.php">Logout</a>
+    <a href="../../../../src/Authentication/logout.php">Logout</a>
 
 </body>
 </html>
